@@ -1,0 +1,37 @@
+FIRST 30 LEETCODE QUESTIONS (BEGINNER → GOOGLE PATH)
+
+EASY (1–15)
+1. Two Sum
+2. Contains Duplicate
+3. Valid Anagram
+4. Maximum Subarray
+5. Best Time to Buy and Sell Stock
+6. Plus One
+7. Move Zeroes
+8. Single Number
+9. Intersection of Two Arrays II
+10. Majority Element
+11. Remove Duplicates from Sorted Array
+12. Rotate Array
+13. Valid Palindrome
+14. Reverse String
+15. Merge Sorted Array
+
+MEDIUM (16–25)
+16. Group Anagrams
+17. Product of Array Except Self
+18. Longest Substring Without Repeating Characters
+19. 3Sum
+20. Container With Most Water
+21. Subarray Sum Equals K
+22. Set Matrix Zeroes
+23. Find the Duplicate Number
+24. Rotate Image
+25. Jump Game
+
+HARD (26–30)
+26. Trapping Rain Water
+27. Largest Rectangle in Histogram
+28. First Missing Positive
+29. Minimum Window Substring
+30. Sliding Window Maximum
