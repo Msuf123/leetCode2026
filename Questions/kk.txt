@@ -1,0 +1,65 @@
+Now i realised that this is the question Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+
+A subarray is a contiguous non-empty sequence of elements within an array. and this is what i did /**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var subarraySum = function(nums, k) {
+    let map=new Map()
+    let count=0
+    for(let i=0;i<nums.length;i++){
+        const correspondent=k-nums[i]
+        if(map.has(correspondent)){
+            count++
+            
+        }
+        if(k===nums[i]){
+            count++
+        }
+        map.set(nums[i],(map.get(correspondent)??0)+1)
+    }
+    return count
+}; the problem is it is not A subarray is a contiguous non-empty sequence of elements within an array. contiguous it's just having diffrent non conitnugus and more over i failed in this case nums =
+[1,-1,0]
+k =
+0
+
+Use Testcase
+Output
+2
+Expected
+3 so now lets try out diffrent approach /**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+var subarraySum = function(nums, k) {
+    let window=[]
+    let sumTillNow=0
+    let count=0
+    for(let i=0;i<nums.length;i++){
+       if(nums[i]+sumTillNow<=k){
+        window.push(nums[i])
+        sumTillNow+=nums[i]
+        if(sumTillNow===k){
+            count++
+        }
+       }
+       while(nums[i]+sumTillNow>k){
+        sumTillNow-=window[0]
+        window.shift()
+       }
+    }
+    return count
+};  htis was my apparoach ?? but it faled htsi test Input
+nums =
+[1,2,1,2,1]
+k =
+3
+
+Use Testcase
+Output
+2
+Expected
+4 wha'ts wring ?
