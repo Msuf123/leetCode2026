@@ -19,6 +19,6 @@ function n(nums){
         else{
             right--
         }
-    }
+    } 
  }
 }
