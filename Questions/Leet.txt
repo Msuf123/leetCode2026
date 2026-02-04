@@ -26,7 +26,7 @@ MEDIUM (16–25)
 22. Set Matrix Zeroes --
 23. Find the Duplicate Number --
 24. Rotate Image --
-25. Jump Game --
+25. Jump Game -- 
 
 HARD (26–30)
 26. Trapping Rain Water
