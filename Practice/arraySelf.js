@@ -10,4 +10,4 @@ for(let i=nums.length-1;i>=0;i--){
   right=nums[i]*right
 }
 }
-console.log(n())
+console.log(n()) 
