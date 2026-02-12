@@ -13,4 +13,4 @@ function ana(s1,s2){
   }
   return true
 }
-console.log(ana('wet','ets'))
+console.log(ana('wet','ets')) 
