@@ -1,16 +1,18 @@
 function n(nums){
  let left=0
  let right=nums.length-1
- let maxLen=0
+ let maxWater=0
  while(left<right){
-    let width=left-right
-   let min=Math.min(nums[left],nums[right])
-   maxLen=Math.max(maxLen,min*width)
-   if (left<min) {
+  const width=left-right
+  const minHeight=Math.min(nums[left],nums[right])
+  maxWater=Math.max(maxWater,width*minHeight)
+  if(nums[left]<nums[right]){
     left++
-   } else {
+  }else{
     right--
-   }
+  }
+
  }
+ return maxWater
 }
 console.log(n())

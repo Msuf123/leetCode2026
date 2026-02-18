@@ -1,0 +1,42 @@
+# NEXT 30 LEETCODE QUESTIONS (31–60)
+
+# EASY → LOW MEDIUM (31–40)
+
+31. Top K Frequent Elements--
+32. Valid Parentheses
+33. Binary Search
+34. Flood Fill--
+35. Climbing Stairs
+36. Merge Two Sorted Lists
+37. Symmetric Tree
+38. Maximum Depth of Binary Tree
+39. Min Stack--
+40. Implement Queue using Stacks--
+
+
+# CORE MEDIUM (41–50)
+
+41. Number of Islands--
+42. Clone Graph--
+43. Course Schedule--
+44. Course Schedule II--
+45. Kth Largest Element in an Array--
+46. Search in Rotated Sorted Array--
+47. Find Minimum in Rotated Sorted Array--
+48. Lowest Common Ancestor of a Binary Tree--
+49. Binary Tree Level Order Traversal
+50. Word Search--
+
+
+# ADVANCED MEDIUM → HARD (51–60)
+
+51. Serialize and Deserialize Binary Tree--
+52. Alien Dictionary ++
+53. Word Ladder--
+54. Accounts Merge--
+55. Median of Two Sorted Arrays--
+56. Merge K Sorted Lists--
+57. Longest Increasing Subsequence--
+58. Edit Distance--
+59. Partition Equal Subset Sum--
+60. Burst Balloons--
