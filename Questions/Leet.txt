@@ -1,7 +1,7 @@
 FIRST 30 LEETCODE QUESTIONS (BEGINNER → pro)
 
 EASY (1–15)
-1. Two Sum
+1. Two Sum 
 2. Contains Duplicate
 3. Valid Anagram
 4. Maximum Subarray
