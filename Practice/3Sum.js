@@ -8,7 +8,7 @@ function n(nums){
         const sum=nums[i]+nums[left]+nums[right]
         if(sum===0){
             nums.push(nums[i],nums[left],nums[right])
-            while(left<right&&nums[left]===nums[left+1])left++
+            while(left<right&&nums[left]===nums[left+1])left++ 
             while(left<right&&nums[rgiht]===nums[right-1])right--
             left++
             right--
