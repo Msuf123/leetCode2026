@@ -6,7 +6,7 @@ function n(nums){
     let right=nums.length-1
     while(left<right){
         const sum=nums[i]+nums[left]+nums[right]
-        if(sum===0){
+        if(sum===0){ 
             nums.push(nums[i],nums[left],nums[right])
             while(left<right&&nums[left]===nums[left+1])left++ 
             while(left<right&&nums[rgiht]===nums[right-1])right--
