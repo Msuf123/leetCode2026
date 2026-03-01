@@ -11,7 +11,7 @@ EASY (1–15)
 8. Single Number --
 9. Intersection of Two Arrays II --
 10. Majority Element --
-11. Remove Duplicates from Sorted Array --
+11. Remove Duplicates from Sorted Array -- 
 12. Rotate Array --
 13. Valid Palindrome
 14. Reverse String
