@@ -5,7 +5,7 @@ EASY (1–15)
 2. Contains Duplicate
 3. Valid Anagram
 4. Maximum Subarray
-5. Best Time to Buy and Sell Stock
+5. Best Time to Buy and Sell Stock 
 6. Plus One
 7. Move Zeroes
 8. Single Number --
