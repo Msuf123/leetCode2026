@@ -4,7 +4,7 @@ EASY (1–15)
 1. Two Sum  
 2. Contains Duplicate
 3. Valid Anagram
-4. Maximum Subarray
+4. Maximum Subarray 
 5. Best Time to Buy and Sell Stock 
 6. Plus One
 7. Move Zeroes
