@@ -4,7 +4,7 @@
 
 31. Top K Frequent Elements--
 32. Valid Parentheses
-33. Binary Search
+33. Binary Search 
 34. Flood Fill--
 35. Climbing Stairs
 36. Merge Two Sorted Lists
