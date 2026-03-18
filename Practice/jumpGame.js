@@ -6,6 +6,6 @@ function n(nums){
     }
    maxStep=Math.max(maxStep,i+nums[i])
  }
- return true
+ return true 
 }
 console.log(n())
