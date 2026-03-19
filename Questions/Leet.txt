@@ -8,7 +8,7 @@ EASY (1–15)
 5. Best Time to Buy and Sell Stock 
 6. Plus One
 7. Move Zeroes
-8. Single Number --
+8. Single Number -- 
 9. Intersection of Two Arrays II --
 10. Majority Element --
 11. Remove Duplicates from Sorted Array --  
