@@ -6,7 +6,7 @@ function n(nums){
         minNow=nums[i]
     }else{
         maxProfit=Math.max(maxProfit,nums[i]-minNow)
-    }
+    } 
 
   }
   return maxProfit
